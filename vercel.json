@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://maintenance-page-demo.vercel.app",
-      "permanent": false
-    }
-  ]
-}
